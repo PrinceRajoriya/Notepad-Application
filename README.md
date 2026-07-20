@@ -80,7 +80,3 @@ screenshots/app.png
 - Desktop application development
 
 ---
-
-## 👨‍💻 Author
-
-Your Name
